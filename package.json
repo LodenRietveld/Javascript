@@ -1,0 +1,15 @@
+{
+  "title": "Rightclick Livestreamer",
+  "name": "rightclicklivestreamer",
+  "version": "0.0.1",
+  "description": "Right click to start livestreamer in VLC on source",
+  "main": "index.js",
+  "author": "Loden Rietveld",
+  "engines": {
+    "Firefox": ">=38.0a1"
+  },
+  "license": "Creative Commons",
+  "keywords": [
+    "jetpack"
+  ]
+}
